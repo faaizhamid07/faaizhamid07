@@ -46,7 +46,7 @@ An intelligent NLP-based system that parses and analyzes resumes to extract key 
 - **Key Features**: Resume parsing, skill extraction, candidate profiling, information extraction
 - **Impact**: Automates resume screening and candidate analysis
 
-### 🔹 **[Face Recognition System](https://github.com/faaizhamid07/Project-on-Pedestrian-Detection-)**
+### 🔹 **[Face Recognition System]**
 Advanced facial identification using deep learning and transfer learning techniques.
 - **Evolved from**: One-to-one face verification to **scalable multi-user matching system**
 - **Tech Stack**: Python, Transfer Learning, Deep Learning, Siamese Networks
