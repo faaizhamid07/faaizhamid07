@@ -125,9 +125,9 @@ Jamia Hamdard University |  *Completed*
 I'm always eager to discuss technology, collaborate on exciting projects, or explore opportunities in software engineering and AI/ML!
 
 - **GitHub**: [@faaizhamid07](https://github.com/faaizhamid07)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/faaiz-hamid/)
+- **LinkedIn**: [Faaiz Hamid](https://www.linkedin.com/in/faaiz-hamid/)
 - **Resume**: [Download Resume](https://drive.google.com/your-resume-link)
-- **Email**: [your-email@gmail.com](khanfaaiz94@gmail.com)
+- **Email**: [khanfaaiz94@gmail.com]
 - **Location**: Delhi, India 🇮🇳
 
 ---
