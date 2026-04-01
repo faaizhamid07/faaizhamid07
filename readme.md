@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Faaiz Hamid
 
-**🎓 B.Tech in CSE (JHU) | M.Tech in IT (USICT, GGSIPU)**  
-**💻 Software Engineer | ML/AI Enthusiast | Problem Solver | Tech Enthusiast**
+**💻 Software Engineer | ML/AI Enthusiast | Problem Solver | Tech Enthusiast**  
+**🎓 B.Tech in CSE (JHU) | M.Tech in IT (USICT, GGSIPU)**
 
 ---
 
