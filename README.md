@@ -33,11 +33,11 @@ An end-to-end **Power BI analytics solution** developed during the **Infosys Vir
 
 ---
 
-### ⚡ [Plexo — Multi-Network Download Manager](https://github.com/faaizhamid07/plexo)
+### 📡 [Telegram Signal — Telegram Monitoring Dashboard](https://github.com/faaizhamid07/Telegram-Signal-Personal)
 
-A desktop download manager designed to use multiple network interfaces such as **Wi-Fi, Ethernet, and USB tethering** for parallel downloads, using HTTP range requests, dynamic work distribution, resumable transfers, and per-interface socket binding.
+A local-first dashboard that monitors selected Telegram groups for configurable keywords and phrases, bringing matching messages into one place. It supports group and keyword management, live message matching, a searchable local dashboard, and optional alerts through a Telegram bot.
 
-**Tech:** Electron · React · TypeScript · Node.js · Tailwind CSS · Zustand · Playwright
+**Tech:** Python · FastAPI · React · Vite · Telethon · Telegram Bot API · SQLite
 
 ---
 
@@ -115,7 +115,7 @@ Jamia Hamdard
 |---|---|
 | 🧠 Generative AI / RAG | [Multi-Source-RAG-Chatbot-with-Dynamic-Retrieval-](https://github.com/faaizhamid07/Multi-Source-RAG-Chatbot-with-Dynamic-Retrieval-) |
 | 📊 Data Analytics / Power BI | [Supply-Chain-Visibility-and-Optimization-Analytics](https://github.com/faaizhamid07/Supply-Chain-Visibility-and-Optimization-Analytics) |
-| ⚡ Software / Networking | [plexo](https://github.com/faaizhamid07/plexo) |
+| 📡 Automation / Telegram | [Telegram-Signal-Personal](https://github.com/faaizhamid07/Telegram-Signal-Personal) |
 | 🚶 Computer Vision | [Pedestrian-Detection-System](https://github.com/faaizhamid07/Pedestrian-Detection-System) |
 | 📄 AI / NLP | [Smart-Resume-Analyser](https://github.com/faaizhamid07/Smart-Resume-Analyser) |
 | 🎬 Machine Learning | [Movie-Recommendation-System](https://github.com/faaizhamid07/Movie-Recommendation-System) |
@@ -139,6 +139,9 @@ Jamia Hamdard
 <p align="left">
   <a href="https://github.com/faaizhamid07">
     <img src="https://img.shields.io/badge/GitHub-faaizhamid07-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:faaizhamid207@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
