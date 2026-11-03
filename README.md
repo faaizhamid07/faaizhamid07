@@ -140,6 +140,9 @@ Jamia Hamdard
   <a href="https://github.com/faaizhamid07">
     <img src="https://img.shields.io/badge/GitHub-faaizhamid07-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
+  <a href="mailto:faaizhamid207@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
