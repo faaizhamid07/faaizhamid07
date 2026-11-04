@@ -125,15 +125,6 @@ Jamia Hamdard
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faaizhamid07&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faaizhamid07&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top Languages"/>
-</p>
-
----
-
 ## 🤝 Connect
 
 <p align="left">
